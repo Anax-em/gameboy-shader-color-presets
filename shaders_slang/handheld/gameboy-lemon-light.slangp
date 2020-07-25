@@ -38,4 +38,4 @@ BACKGROUND = shaders/gameboy/resources/sample-bgs/paper-bg.png
 BACKGROUND_linear = true
 
 parameters = "screen_light"
-screen_light = "1.3"
+screen_light = "1.2"
